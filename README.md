@@ -1,2 +1,1 @@
-# vdr007.github.io
-webpage
+Fork of Beautiful Jekyll
