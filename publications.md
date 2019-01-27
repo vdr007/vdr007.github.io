@@ -201,7 +201,7 @@ Heterogeneous CPU-GPU Clusters.  Cluster'13.  Sep. 2013, Indianapolis, USA, <fon
     <a class="btn btn-default btn-xs" href="../pub/paper/rong-cluster13.pdf">
       <i class="fa fa-file-pdf-o"></i> paper
     </a>
-    <a class="btn btn-default btn-xs" href="../pub/slides/cluster13-rongshi-slides.pdf">
+    <a class="btn btn-default btn-xs" href="../pub/slides/Cluster13-rongshi-slides.pdf">
       <i class="fa fa-file-pdf-o"></i> slides
     </a>
   </span>
