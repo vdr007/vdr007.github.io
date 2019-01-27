@@ -16,8 +16,14 @@ You can also browse my <a href="https://scholar.google.com/citations?user=WnQ255
     <a class="btn btn-default btn-xs dropdown-toggle" href="javascript:void(0);" onclick="$('#abs_mascots18').slideToggle('fast');return false;">
       <i class="fa fa-file-text-o"></i> abstract
     </a>
-    <a class="btn btn-default btn-xs" href="">
+    <a class="btn btn-default btn-xs" href="../pub/paper/mascots2018-rongshi.pdf">
       <i class="fa fa-file-pdf-o"></i> paper
+    </a>
+    <a class="btn btn-default btn-xs" href="../pub/slides/mascots18-slide.pdf">
+      <i class="fa fa-file-pdf-o"></i> slides
+    </a>
+    <a class="btn btn-default btn-xs" href="https://github.com/OSUSysLab/HadoopMetadataBench">
+      <i class="fa fa-github-square"></i> code
     </a>
   </span>
   <div id="bib_mascots18" style="display:none">
@@ -67,6 +73,9 @@ You can also browse my <a href="https://scholar.google.com/citations?user=WnQ255
     </a>
     <a class="btn btn-default btn-xs" href="https://www.usenix.org/system/files/conference/atc16/atc16_paper-shi.pdf">
       <i class="fa fa-file-pdf-o"></i> paper
+    </a>
+    <a class="btn btn-default btn-xs" href="../pub/slides/atc16-RongShi.pdf">
+      <i class="fa fa-file-pdf-o"></i> slides
     </a>
     <a class="btn btn-default btn-xs" href="https://github.com/vdr007/ThriftyPaxos">
       <i class="fa fa-github-square"></i> code
@@ -119,6 +128,9 @@ You can also browse my <a href="https://scholar.google.com/citations?user=WnQ255
     <a class="btn btn-default btn-xs" href="../pub/paper/rong-hipc14.pdf">
       <i class="fa fa-file-pdf-o"></i> paper
     </a>
+    <a class="btn btn-default btn-xs" href="../pub/slides/hipc14-rongshi-slides.pdf">
+      <i class="fa fa-file-pdf-o"></i> slides
+    </a>
   </span>
   <div id="bib_hipc14" style="display:none">
     <p style="background-color:#f0f0f0;font-size:70%;">
@@ -153,6 +165,9 @@ You can also browse my <a href="https://scholar.google.com/citations?user=WnQ255
     <a class="btn btn-default btn-xs" href="../pub/paper/rong-icpp14.pdf">
       <i class="fa fa-file-pdf-o"></i> paper
     </a>
+    <a class="btn btn-default btn-xs" href="../pub/slides/icpp14-rongshi-slides.pdf">
+      <i class="fa fa-file-pdf-o"></i> slides
+    </a>
   </span>
   <div id="bib_icpp14" style="display:none">
     <p style="background-color:#f0f0f0;font-size:70%;">
@@ -185,6 +200,9 @@ Heterogeneous CPU-GPU Clusters.  Cluster'13.  Sep. 2013, Indianapolis, USA, <fon
     </a>
     <a class="btn btn-default btn-xs" href="../pub/paper/rong-cluster13.pdf">
       <i class="fa fa-file-pdf-o"></i> paper
+    </a>
+    <a class="btn btn-default btn-xs" href="../pub/slides/cluster13-rongshi-slides.pdf">
+      <i class="fa fa-file-pdf-o"></i> slides
     </a>
   </span>
   <div id="bib_cluster13" style="display:none">
