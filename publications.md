@@ -7,35 +7,6 @@ You can also browse my <a href="https://scholar.google.com/citations?user=WnQ255
 <br />
 
 #### Conference papers
-  <!--div style="margin-top:20px;">
-  P. Jin, J Guo, Y. Xiao,<strong> R. Shi</strong>, Y. Niu, F. Liu, C. Qian, Y. Wang, PostMan: Rapidly Mitigating Bursty Traffic by Offloading Packet Processing, USENIX ATC 2019
-  <span class="links btn-group">
-    <a class="btn btn-default btn-xs dropdown-toggle" href="javascript:void(0);" onclick="$('#bib_atc19').slideToggle('fast');return false;">
-      <i class="fa fa-file-code-o"></i> bib
-    </a>
-    <a class="btn btn-default btn-xs dropdown-toggle" href="javascript:void(0);" onclick="$('#abs_atc19').slideToggle('fast');return false;">
-      <i class="fa fa-file-text-o"></i> abstract
-    </a>
-    <a class="btn btn-default btn-xs" href="">
-      <i class="fa fa-file-pdf-o"></i> paper
-    </a>
-    <a class="btn btn-default btn-xs" href="">
-      <i class="fa fa-file-pdf-o"></i> slides
-    </a>
-    <a class="btn btn-default btn-xs" href="">
-      <i class="fa fa-github-square"></i> code
-    </a>
-  </span>
-  <div id="bib_atc19" style="display:none">
-    <p style="background-color:#f0f0f0;font-size:70%;">
-    </p>
-  </div>
-  <div id="abs_atc19" class="abstract well" style="display:none">
-  <p style="background-color:#f0f0f0;font-size:80%;">
-  </p>
-  </div>
-  </div-->
-
 - <div style="margin-top:20px;">
   <strong>R. Shi</strong>, Y. Gan, and Y. Wang, Evaluating Scalability Bottlenecks by Workload Extrapolation, MASCOTS 2018
   <span class="links btn-group">
