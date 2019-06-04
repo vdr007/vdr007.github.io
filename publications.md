@@ -233,7 +233,7 @@ Heterogeneous CPU-GPU Clusters.  Cluster'13.  Sep. 2013, Indianapolis, USA, <fon
     <a class="btn btn-default btn-xs dropdown-toggle" href="javascript:void(0);" onclick="$('#abs_hipc14_2').slideToggle('fast');return false;">
       <i class="fa fa-file-text-o"></i> abstract
     </a>
-    <a class="btn btn-default btn-xs" href="https://ieeexplore.ieee.org/document/7116876/">
+    <a class="btn btn-default btn-xs" href="../pub/paper/zhang-hipc14.pdf">
       <i class="fa fa-file-pdf-o"></i> paper
     </a>
   </span>
@@ -265,7 +265,7 @@ Heterogeneous CPU-GPU Clusters.  Cluster'13.  Sep. 2013, Indianapolis, USA, <fon
     <a class="btn btn-default btn-xs dropdown-toggle" href="javascript:void(0);" onclick="$('#abs_europar14').slideToggle('fast');return false;">
       <i class="fa fa-file-text-o"></i> abstract
     </a>
-    <a class="btn btn-default btn-xs" href="https://link.springer.com/chapter/10.1007/978-3-319-09873-9_29">
+    <a class="btn btn-default btn-xs" href="../pub/paper/zhang-europar14.pdf">
       <i class="fa fa-file-pdf-o"></i> paper
     </a>
   </span>
