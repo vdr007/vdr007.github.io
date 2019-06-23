@@ -1,0 +1,144 @@
+---
+layout: blank
+permalink: /index/ba/prepare/behavior
+---
+
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.collapsible {
+  background-color: #fff;
+  color: 000066;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+
+.active, .collapsible:hover {
+  background-color: #ff9999;
+}
+
+.content {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  background-color: #ffffe6;
+}
+</style>
+</head>
+
+<body>
+
+<h2>Q&A</h2>
+<ul>
+
+	<li>
+  <button class="collapsible"></button>
+    <div class="content">
+      <p>
+        <ul>
+          <li></li>
+        </ul>
+      </p>	
+    </div>
+	</li>
+
+	<li>
+  <button class="collapsible">Tell me about a data science project you have done in the past</button>
+  <div class="content">
+    <p>
+      <ul>
+        <li>Key: Depth of knowledge, contribution for past project, explain how these topics furthered company growth in a data product</li>
+        <li>Overall goal: ...</li>
+        </br>
+        <li>Project 1: xxx</li>
+        <li>Project 2: xxx</li>
+      </ul>
+
+    </p>	
+  </div>
+	</li>
+
+	<li>
+  <button class="collapsible">What have you liked and disliked about your previous position</button>
+  <div class="content">
+    <p>
+      <ul>
+        <li>Key: Avoid talkingi about issues with specific people; could dislike how the organization is not placing data science at the center of its strategy</li>
+        <li></li>
+        </br>
+      </ul>
+    </p>	
+  </div>
+	</li>
+
+	<li>
+  <button class="collapsible">Tell me about a situation in the past where you had to convince others about your position on a specific matter. What was the outcome?</button>
+    <div class="content">
+      <p>
+        <ul>
+          <li>Key: how good are you at defending your position, and ability to engender change (quantifiable in its impact) within the team, communication \& leadership</li>
+          <li></li>
+        </ul>
+      </p>	
+    </div>
+	</li>
+
+	<li>
+  <button class="collapsible">What's the biggest or most complex dataset you have ever worked with? What problems did it create?</button>
+    <div class="content">
+      <p>
+        <ul>
+          <li></li>
+        </ul>
+      </p>	
+    </div>
+	</li>
+
+	<li>
+  <button class="collapsible">give me an example of a time when they failed, what you think went wrong, what you would do differently in future</button>
+    <div class="content">
+      <p>
+        <ul>
+          <li></li>
+        </ul>
+      </p>	
+    </div>
+	</li>
+
+	<li>
+  <button class="collapsible"></button>
+    <div class="content">
+      <p>
+        <ul>
+          <li></li>
+        </ul>
+      </p>	
+    </div>
+	</li>
+</ul>
+
+
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.display === "block") {
+      content.style.display = "none";
+    } else {
+      content.style.display = "block";
+    }
+  });
+}
+</script>
+
+
+</body>
