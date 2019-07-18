@@ -16,10 +16,10 @@ You can also browse my <a href="https://scholar.google.com/citations?user=WnQ255
     <a class="btn btn-default btn-xs dropdown-toggle" href="javascript:void(0);" onclick="$('#abs_atc19').slideToggle('fast');return false;">
       <i class="fa fa-file-text-o"></i> abstract
     </a>
-    <!--a class="btn btn-default btn-xs" href="">
+    <!--a class="btn btn-default btn-xs" href="../pub/paper/atc19-rongshi.pdf">
       <i class="fa fa-file-pdf-o"></i> paper
     </a>
-    <a class="btn btn-default btn-xs" href="">
+    <a class="btn btn-default btn-xs" href="../pub/slides/atc19-slides.pdf">
       <i class="fa fa-file-pdf-o"></i> slides
     </a>
     <a class="btn btn-default btn-xs" href="">
@@ -28,10 +28,39 @@ You can also browse my <a href="https://scholar.google.com/citations?user=WnQ255
   </span>
   <div id="bib_atc19" style="display:none">
     <p style="background-color:#f0f0f0;font-size:70%;">
+    @inproceedings {rong-atc18,<br>
+    author = {Panpan Jin and Jian Guo and Yikai Xiao and Rong Shi and Yipei Niu and Fangming Liu and Chen Qian and Yang Wang},<br>
+    title = {PostMan: Rapidly Mitigating Bursty Traffic by Offloading Packet Processing},<br>
+    booktitle = {2019 {USENIX} Annual Technical Conference ({USENIX} {ATC} 19)},<br>
+    year = {2019},<br>
+    address = {Renton, WA},<br>
+    pages = {849--862},<br>
+    publisher = {{USENIX} Association},<br>
+    }
     </p>
   </div>
   <div id="abs_atc19" class="abstract well" style="display:none">
   <p style="background-color:#f0f0f0;font-size:80%;">
+  Unexpected bursty traffic due to certain sudden events, such as news
+  in the spotlight on a social network or discounted items on sale,
+  can cause severe load imbalance in backend services. Migrating hot
+  data---the standard approach to achieve load balance---meets a challenge
+  when handling such unexpected load imbalance, because migrating data will
+  slow down the server that is already under heavy pressure.
+
+  This paper proposes PostMan, an alternative approach to rapidly mitigate
+  load imbalance for services processing small requests. Motivated by the
+  observation that processing large packets incurs far less CPU overhead than
+  processing small ones, PostMan deploys a number of middleboxes called helpers
+  to assemble small packets into large ones for the heavily-loaded server.
+  This approach essentially offloads the overhead of packet processing from
+  the heavily-loaded server to others. To minimize the overhead, PostMan
+  activates helpers on demand, only when bursty traffic is detected. To
+  tolerate helper failures, PostMan can migrate connections across helpers
+  and can ensure packet ordering despite such migration. Our evaluation
+  shows that, with the help of PostMan, a Memcached server can mitigate
+  bursty traffic within hundreds of milliseconds, while migrating data takes
+  tens of seconds and increases the latency during migration.
   </p>
   </div>
   </div>
