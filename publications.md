@@ -16,13 +16,13 @@ You can also browse my <a href="https://scholar.google.com/citations?user=WnQ255
     <a class="btn btn-default btn-xs dropdown-toggle" href="javascript:void(0);" onclick="$('#abs_atc19').slideToggle('fast');return false;">
       <i class="fa fa-file-text-o"></i> abstract
     </a>
-    <!--a class="btn btn-default btn-xs" href="../pub/paper/atc19-rongshi.pdf">
+    <a class="btn btn-default btn-xs" href="../pub/paper/atc19-rongshi.pdf">
       <i class="fa fa-file-pdf-o"></i> paper
     </a>
     <a class="btn btn-default btn-xs" href="../pub/slides/atc19-slides.pdf">
       <i class="fa fa-file-pdf-o"></i> slides
     </a>
-    <a class="btn btn-default btn-xs" href="">
+    <!--a class="btn btn-default btn-xs" href="">
       <i class="fa fa-github-square"></i> code
     </a-->
   </span>
@@ -47,7 +47,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=WnQ255
   data---the standard approach to achieve load balance---meets a challenge
   when handling such unexpected load imbalance, because migrating data will
   slow down the server that is already under heavy pressure.
-
+  <br>
   This paper proposes PostMan, an alternative approach to rapidly mitigate
   load imbalance for services processing small requests. Motivated by the
   observation that processing large packets incurs far less CPU overhead than
