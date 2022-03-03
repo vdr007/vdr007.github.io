@@ -10,7 +10,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=WnQ255
 - <div style="margin-top:20px;">
   [<strong>TPDS</strong>] PostMan: Rapidly Mitigating Bursty Traffic via On-Demand Offloading of Packet Processing.<br>
   Y. Niu, P. Jin, J. Guo, Y Xiao, <strong>R. Shi</strong>, F. Liu, C. Qian, Y. Wang<br>
-  In IEEE Transactions on Parallel and Distributed Systems, June 2021<br>
+  In IEEE Transactions on Parallel and Distributed Systems, Jun. 2021<br>
   <span class="links btn-group">
     <a class="btn btn-default btn-xs dropdown-toggle" href="javascript:void(0);" onclick="$('#bib_tpds21').slideToggle('fast');return false;">
       <i class="fa fa-file-code-o"></i> bib
@@ -61,7 +61,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=WnQ255
 - <div style="margin-top:20px;">
   [<strong>USENIX ATC'19</strong>] PostMan: Rapidly Mitigating Bursty Traffic by Offloading Packet Processing.<br>
   P. Jin, J Guo, Y. Xiao,<strong> R. Shi</strong>, Y. Niu, F. Liu, C. Qian, Y. Wang<br>
-  In 2019 USENIX Annual Technical Conference, Renton, WA, USA, July 2019<br>
+  In 2019 USENIX Annual Technical Conference, Renton, WA, USA, Jul. 2019<br>
   <span class="links btn-group">
     <a class="btn btn-default btn-xs dropdown-toggle" href="javascript:void(0);" onclick="$('#bib_atc19').slideToggle('fast');return false;">
       <i class="fa fa-file-code-o"></i> bib
@@ -123,7 +123,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=WnQ255
   [<strong>MASCOTS'18</strong>] Evaluating Scalability Bottlenecks by Workload Extrapolation.<br>
   <strong>R. Shi</strong>, Y. Gan, and Y. Wang<br>
   In the 26th IEEE International Symposium on the Modeling, Analysis, and Simulation of Computer and Telecommunication Systems,
-  Milwaukee, WI, USA, Sep 2018<br>
+  Milwaukee, WI, USA, Sep. 2018<br>
   <span class="links btn-group">
     <a class="btn btn-default btn-xs dropdown-toggle" href="javascript:void(0);" onclick="$('#bib_mascots18').slideToggle('fast');return false;">
       <i class="fa fa-file-code-o"></i> bib
@@ -180,7 +180,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=WnQ255
 - <div style="margin-top:20px;">
   [<strong>USENIX ATC'16</strong>] Cheap and Available State Machine Replication.<br>
   <strong>R. Shi</strong>, Y. Wang<br>
-  In 2016 USENIX Annual Technical Conference, Denver, CO, USA, Jun 2016<br>
+  In 2016 USENIX Annual Technical Conference, Denver, CO, USA, Jun. 2016<br>
   <span class="links btn-group">
     <a class="btn btn-default btn-xs dropdown-toggle" href="javascript:void(0);" onclick="$('#bib_atc16').slideToggle('fast');return false;">
       <i class="fa fa-file-code-o"></i> bib
