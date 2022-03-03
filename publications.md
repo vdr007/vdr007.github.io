@@ -8,6 +8,55 @@ You can also browse my <a href="https://scholar.google.com/citations?user=WnQ255
 
 #### Conference papers
 - <div style="margin-top:20px;">
+  Y. Niu, P. Jin, J. Guo, Y Xiao, <strong>Rong Shi</strong>, F. Liu, C. Qian, Y. Wang, PostMan: Rapidly Mitigating Bursty Traffic via On-Demand Offloading of Packet Processing
+  <span class="links btn-group">
+    <a class="btn btn-default btn-xs dropdown-toggle" href="javascript:void(0);" onclick="$('#bib_atc19').slideToggle('fast');return false;">
+      <i class="fa fa-file-code-o"></i> bib
+    </a>
+    <a class="btn btn-default btn-xs dropdown-toggle" href="javascript:void(0);" onclick="$('#abs_atc19').slideToggle('fast');return false;">
+      <i class="fa fa-file-text-o"></i> abstract
+    </a>
+    <a class="btn btn-default btn-xs" href="../pub/paper/tpds-2021-rongshi.pdf">
+      <i class="fa fa-file-pdf-o"></i> paper
+    </a>
+    <a class="btn btn-default btn-xs" href="">
+      <i class="fa fa-file-pdf-o"></i> slides
+    </a>
+    <!--a class="btn btn-default btn-xs" href="">
+      <i class="fa fa-github-square"></i> code
+    </a-->
+  </span>
+  <div id="bib_atc19" style="display:none">
+    <p style="background-color:#f0f0f0;font-size:70%;">
+    @ARTICLE{rong-tpds2021,<br>
+    author={Niu, Yipei and Jin, Panpan and Guo, Jian and Xiao, Yikai and Shi, Rong and Liu, Fangming and Qian, Chen and Wang, Yang},<br>
+    journal={IEEE Transactions on Parallel and Distributed Systems},<br>
+    title={PostMan: Rapidly Mitigating Bursty Traffic via On-Demand Offloading of Packet Processing},<br>
+    year={2022},  volume={33},  number={2},  pages={374-387},<br>
+    doi={10.1109/TPDS.2021.3092266}
+    }
+    </p>
+  </div>
+  <div id="abs_atc19" class="abstract well" style="display:none">
+  <p style="background-color:#f0f0f0;font-size:80%;">
+  Unexpected bursty traffic brought by certain sudden events, such as news in the spotlight on a
+  social network or discounted items on sale, can cause severe load imbalance in backend services.
+  Migrating hot data - the standard approach to achieve load balance - meets a challenge when handling
+  such unexpected load imbalance, because migrating data will slow down the server that is already under heavy pressure.
+  This article proposes PostMan, an alternative approach to rapidly mitigate load imbalance for services processing small requests.
+  Motivated by the observation that processing large packets incurs far less CPU overhead than processing small ones,
+  PostMan deploys a number of middleboxes called helpers to assemble small packets into large ones for the heavily-loaded server.
+  This approach essentially offloads the overhead of packet processing from the heavily-loaded server to helpers.
+  To minimize the overhead, PostMan activates helpers on demand, only when bursty traffic is detected.
+  The heavily-loaded server determines when clients connect/disconnect to/from helpers based on the real-time load statistics.
+  To tolerate helper failures, PostMan can migrate connections across helpers and can ensure packet ordering despite such migration.
+  Driven by real-world workloads, our evaluation shows that, with the help of PostMan, a Memcached server can mitigate bursty
+  traffic within hundreds of milliseconds, while migrating data takes tens of seconds and increases the latency during migration. 
+  </p>
+  </div>
+  </div>
+
+- <div style="margin-top:20px;">
   P. Jin, J Guo, Y. Xiao,<strong> R. Shi</strong>, Y. Niu, F. Liu, C. Qian, Y. Wang, PostMan: Rapidly Mitigating Bursty Traffic by Offloading Packet Processing, USENIX ATC 2019
   <span class="links btn-group">
     <a class="btn btn-default btn-xs dropdown-toggle" href="javascript:void(0);" onclick="$('#bib_atc19').slideToggle('fast');return false;">
