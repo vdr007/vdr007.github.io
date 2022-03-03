@@ -8,7 +8,9 @@ You can also browse my <a href="https://scholar.google.com/citations?user=WnQ255
 
 #### Conference papers
 - <div style="margin-top:20px;">
-  [<strong>TPDS</strong>] PostMan: Rapidly Mitigating Bursty Traffic via On-Demand Offloading of Packet Processing
+  [<strong>TPDS</strong>] PostMan: Rapidly Mitigating Bursty Traffic via On-Demand Offloading of Packet Processing.
+  Y. Niu, P. Jin, J. Guo, Y Xiao, <strong>R. Shi</strong>, F. Liu, C. Qian, Y. Wang
+  In IEEE Transactions on Parallel and Distributed Systems, June 2021
   <span class="links btn-group">
     <a class="btn btn-default btn-xs dropdown-toggle" href="javascript:void(0);" onclick="$('#bib_tpds21').slideToggle('fast');return false;">
       <i class="fa fa-file-code-o"></i> bib
@@ -53,8 +55,6 @@ You can also browse my <a href="https://scholar.google.com/citations?user=WnQ255
   Driven by real-world workloads, our evaluation shows that, with the help of PostMan, a Memcached server can mitigate bursty
   traffic within hundreds of milliseconds, while migrating data takes tens of seconds and increases the latency during migration. 
   </p>
-  Y. Niu, P. Jin, J. Guo, Y Xiao, <strong>R. Shi</strong>, F. Liu, C. Qian, Y. Wang
-  In IEEE Transactions on Parallel and Distributed Systems, June 2021
   </div>
   </div>
 
