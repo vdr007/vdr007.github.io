@@ -8,7 +8,8 @@ You can also browse my <a href="https://scholar.google.com/citations?user=WnQ255
 
 #### Conference papers
 - <div style="margin-top:20px;">
-  Y. Niu, P. Jin, J. Guo, Y Xiao, <strong>Rong Shi</strong>, F. Liu, C. Qian, Y. Wang, PostMan: Rapidly Mitigating Bursty Traffic via On-Demand Offloading of Packet Processing
+  Y. Niu, P. Jin, J. Guo, Y Xiao, <strong>Rong Shi</strong>, F. Liu, C. Qian, Y. Wang, PostMan: Rapidly Mitigating Bursty
+  Traffic via On-Demand Offloading of Packet Processing, IEEE Transactions on Parallel and Distributed Systems (<strong>TPDS'21</strong>)
   <span class="links btn-group">
     <a class="btn btn-default btn-xs dropdown-toggle" href="javascript:void(0);" onclick="$('#bib_tpds21').slideToggle('fast');return false;">
       <i class="fa fa-file-code-o"></i> bib
@@ -57,7 +58,8 @@ You can also browse my <a href="https://scholar.google.com/citations?user=WnQ255
   </div>
 
 - <div style="margin-top:20px;">
-  P. Jin, J Guo, Y. Xiao,<strong> R. Shi</strong>, Y. Niu, F. Liu, C. Qian, Y. Wang, PostMan: Rapidly Mitigating Bursty Traffic by Offloading Packet Processing, USENIX ATC 2019
+  P. Jin, J Guo, Y. Xiao,<strong> R. Shi</strong>, Y. Niu, F. Liu, C. Qian, Y. Wang, PostMan: Rapidly Mitigating Bursty
+  Traffic by Offloading Packet Processing, USENIX Annual Technical Conference (<strong>ATC'19</strong>), Renton, USA, 2019
   <span class="links btn-group">
     <a class="btn btn-default btn-xs dropdown-toggle" href="javascript:void(0);" onclick="$('#bib_atc19').slideToggle('fast');return false;">
       <i class="fa fa-file-code-o"></i> bib
@@ -116,7 +118,9 @@ You can also browse my <a href="https://scholar.google.com/citations?user=WnQ255
 
 
 - <div style="margin-top:20px;">
-  <strong>R. Shi</strong>, Y. Gan, and Y. Wang, Evaluating Scalability Bottlenecks by Workload Extrapolation, MASCOTS 2018
+  <strong>R. Shi</strong>, Y. Gan, and Y. Wang, Evaluating Scalability Bottlenecks by Workload Extrapolation,
+  IEEE International Symposium on the Modeling, Analysis, and Simulation of Computer and Telecommunication Systems (<strong>MASCOTS'18</strong>),
+  Milwaukee, USA, 2018
   <span class="links btn-group">
     <a class="btn btn-default btn-xs dropdown-toggle" href="javascript:void(0);" onclick="$('#bib_mascots18').slideToggle('fast');return false;">
       <i class="fa fa-file-code-o"></i> bib
@@ -171,7 +175,8 @@ You can also browse my <a href="https://scholar.google.com/citations?user=WnQ255
 
 
 - <div style="margin-top:20px;">
-  <strong>R. Shi</strong>, Y. Wang, Cheap and Available State Machine Replication, USENIX ATC 2016
+  <strong>R. Shi</strong>, Y. Wang, Cheap and Available State Machine Replication, USENIX Annual Technical Conference (<strong>ATC'16</strong>),
+  Denver, USA, 2016
   <span class="links btn-group">
     <a class="btn btn-default btn-xs dropdown-toggle" href="javascript:void(0);" onclick="$('#bib_atc16').slideToggle('fast');return false;">
       <i class="fa fa-file-code-o"></i> bib
@@ -225,7 +230,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=WnQ255
   </div>
 
 - <div style="margin-top:20px;">
-  <strong>R. Shi</strong>, S. Potluri, K. Hamidouche, M. Li, D. Rossetti and D. K. Panda, Designing Efficient Small Message Transfer Mechanism for Inter-node MPI Communication on InfiniBand GPU Clusters, Conference on High Performance Computing (HiPC'14), Goa, India, 2014
+  <strong>R. Shi</strong>, S. Potluri, K. Hamidouche, M. Li, D. Rossetti and D. K. Panda, Designing Efficient Small Message Transfer Mechanism for Inter-node MPI Communication on InfiniBand GPU Clusters, Conference on High Performance Computing (<strong>HiPC'14</strong>), Goa, India, 2014
   <span class="links btn-group">
     <a class="btn btn-default btn-xs dropdown-toggle" href="javascript:void(0);" onclick="$('#bib_hipc14').slideToggle('fast');return false;">
       <i class="fa fa-file-code-o"></i> bib
@@ -261,8 +266,75 @@ You can also browse my <a href="https://scholar.google.com/citations?user=WnQ255
   </div>
   </div>
 
+
 - <div style="margin-top:20px;">
-  <strong>R. Shi</strong>, X. Lu, S. Potluri, K. Hamidouche, J. Zhang, and D. K. Panda, HAND: A Hybrid Approach to Accelerate Non-contiguous Data Movement using MPI Datatypes on GPU Clusters, in Proceeding of International Conference on Parallel Processing (ICPP'14), Minneapolis, USA, 2014.
+  J. Zhang, X. Lu, J. Jose, M. Li, <strong>R. Shi</strong> and D. K. Panda, High Performance MPI Library over SR-IOV Enabled InfiniBand Clusters, Conference on High Performance Computing (<strong>HiPC'14</strong>), Goa, India, 2014
+  <span class="links btn-group">
+    <a class="btn btn-default btn-xs dropdown-toggle" href="javascript:void(0);" onclick="$('#bib_hipc14_2').slideToggle('fast');return false;">
+      <i class="fa fa-file-code-o"></i> bib
+    </a>
+    <a class="btn btn-default btn-xs dropdown-toggle" href="javascript:void(0);" onclick="$('#abs_hipc14_2').slideToggle('fast');return false;">
+      <i class="fa fa-file-text-o"></i> abstract
+    </a>
+    <a class="btn btn-default btn-xs" href="../pub/paper/zhang-hipc14.pdf">
+      <i class="fa fa-file-pdf-o"></i> paper
+    </a>
+  </span>
+  <div id="bib_hipc14_2" style="display:none">
+    <p style="background-color:#f0f0f0;font-size:70%;">
+    @InProceedings{jie-hipc14,<br>
+      author =       {J. Zhang, X. Lu, J. Jose, M. Li, R. Shi, D. K. Panda},<br>
+      title =        {High Performance MPI Library over SR-IOV Enabled InfiniBand Clusters},<br>
+      booktitle =    {Proceedings of International Conference on High Performance Computing (HiPC)},<br>
+      year =         2014,<br>
+      address =      {Goa, India},<br>
+      month =        {December 17-20}<br>
+    }<br>
+    </p>
+  </div>
+  <div id="abs_hipc14_2" class="abstract well" style="display:none">
+  <p style="background-color:#f0f0f0;font-size:80%;">
+  Virtualization has become a central role in HPC Cloud due to easy management and low cost of computation and communication. Recently, Single Root I/O Virtualization (SR-IOV) technology has been introduced for high-performance interconnects such as InfiniBand and can attain near to native performance for inter-node communication. However, the SR-IOV scheme lacks locality aware communication support, which leads to performance overheads for inter-VM communication within a same physical node. To address this issue, this paper first proposes a high performance design of MPI library over SR-IOV enabled InfiniBand clusters by dynamically detecting VM locality and coordinating data movements between SR-IOV and Inter-VM shared memory (IVShmem) channels. Through our proposed design, MPI applications running in virtualized mode can achieve efficient locality-aware communication on SR-IOV enabled InfiniBand clusters. In addition, we optimize communications in IVShmem and SR-IOV channels by analyzing the performance impact of core mechanisms and parameters inside MPI library to deliver better performance in virtual machines. Finally, we conduct comprehensive performance studies by using point-to-point and collective benchmarks, and HPC applications. Experimental evaluations show that our proposed MPI library design can significantly improve the performance for point-to-point and collective operations, and MPI applications with different InfiniBand transport protocols (RC and UD) by up to 158%, 76%, 43%, respectively, compared with SR-IOV. To the best of our knowledge, this is the first study to offer a high performance MPI library that supports efficient locality aware MPI communication over SR-IOV enabled InfiniBand clusters.
+  </p>
+  </div>
+  </div>
+
+- <div style="margin-top:20px;">
+  J. Zhang, X. Lu, J. Jose, <strong>R. Shi</strong> and D. K. Panda, Can Inter-VM Shmem Benefit MPI Applications on SR-IOV based Virtualized InfiniBand Clusters, European Conference on Parallel Processing (<strong>Euro-Par'14</strong>), Porto, Portugal, 2014
+  <span class="links btn-group">
+    <a class="btn btn-default btn-xs dropdown-toggle" href="javascript:void(0);" onclick="$('#bib_europar14').slideToggle('fast');return false;">
+      <i class="fa fa-file-code-o"></i> bib
+    </a>
+    <a class="btn btn-default btn-xs dropdown-toggle" href="javascript:void(0);" onclick="$('#abs_europar14').slideToggle('fast');return false;">
+      <i class="fa fa-file-text-o"></i> abstract
+    </a>
+    <a class="btn btn-default btn-xs" href="../pub/paper/zhang-europar14.pdf">
+      <i class="fa fa-file-pdf-o"></i> paper
+    </a>
+  </span>
+  <div id="bib_europar14" style="display:none">
+    <p style="background-color:#f0f0f0;font-size:70%;">
+    @InProceedings{jie-europar14,<br>
+      author =       {J. Zhang, X. Lu, J. Jose, R. Shi, D. K. Panda},<br>
+      title =        {Can Inter-VM Shmem Benefit MPI Applications on
+                        SR-IOV based Virtualized InfiniBand Clusters?},<br>
+      booktitle =    {Proceedings of 20th International Conference Euro-Par 2014
+                      Parallel Processing},<br>
+      year =         2014,<br>
+      address =      {Porto, Portugal},<br>
+      month =        {August 25-29}<br>
+    }<br>
+    </p>
+  </div>
+  <div id="abs_europar14" class="abstract well" style="display:none">
+  <p style="background-color:#f0f0f0;font-size:80%;">
+  Single Root I/O Virtualization (SR-IOV) technology has been introduced for high-performance interconnects such as InfiniBand. Recent studies mainly focus on performance characteristics of high-performance communication middleware (e.g. MPI) and applications on SR-IOV enabled HPC clusters. However, current SR-IOV based MPI applications do not take advantage of the locality-aware communication on intra-host inter-VM environment. Although Inter-VM Shared Memory (IVShmem) has been proven to support efficient locality-aware communication, the performance benefits of IVShmem for MPI libraries on virtualized environments are yet to be explored. In this paper, we present a comprehensive performance evaluation for IVShmem backed MPI using micro-benchmarks and HPC applications. The performance evaluations show that, through IVShmem, the performance of MPI point-to-point and collective operations can be improved up to 193% and 91%, respectively. The application performance can be improved up to 96%, compared to SR-IOV. The results further show that IVShmem just brings minor overhead compared to native environment.
+  </p>
+  </div>
+  </div>
+
+- <div style="margin-top:20px;">
+  <strong>R. Shi</strong>, X. Lu, S. Potluri, K. Hamidouche, J. Zhang, and D. K. Panda, HAND: A Hybrid Approach to Accelerate Non-contiguous Data Movement using MPI Datatypes on GPU Clusters, in Proceeding of International Conference on Parallel Processing (<strong>ICPP'14</strong>), Minneapolis, USA, 2014
   <span class="links btn-group">
     <a class="btn btn-default btn-xs dropdown-toggle" href="javascript:void(0);" onclick="$('#bib_icpp14').slideToggle('fast');return false;">
       <i class="fa fa-file-code-o"></i> bib
@@ -298,7 +370,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=WnQ255
 
 - <div style="margin-top:20px;">
   <strong>R. Shi</strong>, S. Potluri, K. Hamidouche, X. Lu, K. Tomko and D. K. Panda, A Scalable and Portable Approach to Accelerate Hybrid HPL on 
-Heterogeneous CPU-GPU Clusters.  Cluster'13.  Sep. 2013, Indianapolis, USA, <font color="red"><strong>Best Student Paper Award</strong></font>
+Heterogeneous CPU-GPU Clusters, IEEE International Conference on Cluster Computing (<strong>Cluster'13</strong>), Indianapolis, USA, 2013, <font color="red"><strong>Best Student Paper Award</strong></font>
   <span class="links btn-group">
     <a class="btn btn-default btn-xs dropdown-toggle" href="javascript:void(0);" onclick="$('#bib_cluster13').slideToggle('fast');return false;">
       <i class="fa fa-file-code-o"></i> bib
@@ -328,72 +400,6 @@ Heterogeneous CPU-GPU Clusters.  Cluster'13.  Sep. 2013, Indianapolis, USA, <fon
   <div id="abs_cluster13" class="abstract well" style="display:none">
   <p style="background-color:#f0f0f0;font-size:80%;">
   Accelerating High-Performance Linkpack (HPL) on heterogeneous clusters with multi-core CPUs and GPUs has attracted a lot of attention from the High Performance Computing community. It is becoming common for large scale clusters to have GPUs on only a subset of nodes in order to limit system costs. The major challenge for HPL in this case is to efficiently take advantage of all the CPU and GPU resources available on a cluster. In this paper, we present a novel two-level workload partitioning approach for HPL that distributes workload based on the compute power of CPU/GPU nodes across the cluster. Our approach also handles multi-GPU configurations. Unlike earlier approaches for heterogeneous clusters with CPU and GPU nodes, our design takes advantage of asynchronous kernel launches and CUDA copies to overlap computation and CPU-GPU data movement. It uses techniques such as process grid reordering to reduce MPI communication/contention while ensuring load balance across nodes. Our experimental results using 32 GPU and 128 CPU nodes of Oakley, a research cluster at Ohio Supercomputer Center, shows that our proposed approach can achieve more than 80% of combined actual peak performance of CPU and GPU nodes. This provides 47% and 63% increase in the HPL performance that can be reported using only CPU nodes and only GPU nodes, respectively.
-  </p>
-  </div>
-  </div>
-
-- <div style="margin-top:20px;">
-  J. Zhang, X. Lu, J. Jose, M. Li, <strong>R. Shi</strong> and D. K. Panda, High Performance MPI Library over SR-IOV Enabled InfiniBand Clusters, Conference on High Performance Computing (HiPC'14), Goa, India, 2014
-  <span class="links btn-group">
-    <a class="btn btn-default btn-xs dropdown-toggle" href="javascript:void(0);" onclick="$('#bib_hipc14_2').slideToggle('fast');return false;">
-      <i class="fa fa-file-code-o"></i> bib
-    </a>
-    <a class="btn btn-default btn-xs dropdown-toggle" href="javascript:void(0);" onclick="$('#abs_hipc14_2').slideToggle('fast');return false;">
-      <i class="fa fa-file-text-o"></i> abstract
-    </a>
-    <a class="btn btn-default btn-xs" href="../pub/paper/zhang-hipc14.pdf">
-      <i class="fa fa-file-pdf-o"></i> paper
-    </a>
-  </span>
-  <div id="bib_hipc14_2" style="display:none">
-    <p style="background-color:#f0f0f0;font-size:70%;">
-    @InProceedings{jie-hipc14,<br>
-      author =       {J. Zhang, X. Lu, J. Jose, M. Li, R. Shi, D. K. Panda},<br>
-      title =        {High Performance MPI Library over SR-IOV Enabled InfiniBand Clusters},<br>
-      booktitle =    {Proceedings of International Conference on High Performance Computing (HiPC)},<br>
-      year =         2014,<br>
-      address =      {Goa, India},<br>
-      month =        {December 17-20}<br>
-    }<br>
-    </p>
-  </div>
-  <div id="abs_hipc14_2" class="abstract well" style="display:none">
-  <p style="background-color:#f0f0f0;font-size:80%;">
-  Virtualization has become a central role in HPC Cloud due to easy management and low cost of computation and communication. Recently, Single Root I/O Virtualization (SR-IOV) technology has been introduced for high-performance interconnects such as InfiniBand and can attain near to native performance for inter-node communication. However, the SR-IOV scheme lacks locality aware communication support, which leads to performance overheads for inter-VM communication within a same physical node. To address this issue, this paper first proposes a high performance design of MPI library over SR-IOV enabled InfiniBand clusters by dynamically detecting VM locality and coordinating data movements between SR-IOV and Inter-VM shared memory (IVShmem) channels. Through our proposed design, MPI applications running in virtualized mode can achieve efficient locality-aware communication on SR-IOV enabled InfiniBand clusters. In addition, we optimize communications in IVShmem and SR-IOV channels by analyzing the performance impact of core mechanisms and parameters inside MPI library to deliver better performance in virtual machines. Finally, we conduct comprehensive performance studies by using point-to-point and collective benchmarks, and HPC applications. Experimental evaluations show that our proposed MPI library design can significantly improve the performance for point-to-point and collective operations, and MPI applications with different InfiniBand transport protocols (RC and UD) by up to 158%, 76%, 43%, respectively, compared with SR-IOV. To the best of our knowledge, this is the first study to offer a high performance MPI library that supports efficient locality aware MPI communication over SR-IOV enabled InfiniBand clusters.
-  </p>
-  </div>
-  </div>
-
-- <div style="margin-top:20px;">
-  J. Zhang, X. Lu, J. Jose, <strong>R. Shi</strong> and D. K. Panda, Can Inter-VM Shmem Benefit MPI Applications on SR-IOV based Virtualized InfiniBand Clusters, Euro-Par 2014 Parallel Processing - 20th International Conference, Porto, Portugal, August 2014
-  <span class="links btn-group">
-    <a class="btn btn-default btn-xs dropdown-toggle" href="javascript:void(0);" onclick="$('#bib_europar14').slideToggle('fast');return false;">
-      <i class="fa fa-file-code-o"></i> bib
-    </a>
-    <a class="btn btn-default btn-xs dropdown-toggle" href="javascript:void(0);" onclick="$('#abs_europar14').slideToggle('fast');return false;">
-      <i class="fa fa-file-text-o"></i> abstract
-    </a>
-    <a class="btn btn-default btn-xs" href="../pub/paper/zhang-europar14.pdf">
-      <i class="fa fa-file-pdf-o"></i> paper
-    </a>
-  </span>
-  <div id="bib_europar14" style="display:none">
-    <p style="background-color:#f0f0f0;font-size:70%;">
-    @InProceedings{jie-europar14,<br>
-      author =       {J. Zhang, X. Lu, J. Jose, R. Shi, D. K. Panda},<br>
-      title =        {Can Inter-VM Shmem Benefit MPI Applications on
-                        SR-IOV based Virtualized InfiniBand Clusters?},<br>
-      booktitle =    {Proceedings of 20th International Conference Euro-Par 2014
-                      Parallel Processing},<br>
-      year =         2014,<br>
-      address =      {Porto, Portugal},<br>
-      month =        {August 25-29}<br>
-    }<br>
-    </p>
-  </div>
-  <div id="abs_europar14" class="abstract well" style="display:none">
-  <p style="background-color:#f0f0f0;font-size:80%;">
-  Single Root I/O Virtualization (SR-IOV) technology has been introduced for high-performance interconnects such as InfiniBand. Recent studies mainly focus on performance characteristics of high-performance communication middleware (e.g. MPI) and applications on SR-IOV enabled HPC clusters. However, current SR-IOV based MPI applications do not take advantage of the locality-aware communication on intra-host inter-VM environment. Although Inter-VM Shared Memory (IVShmem) has been proven to support efficient locality-aware communication, the performance benefits of IVShmem for MPI libraries on virtualized environments are yet to be explored. In this paper, we present a comprehensive performance evaluation for IVShmem backed MPI using micro-benchmarks and HPC applications. The performance evaluations show that, through IVShmem, the performance of MPI point-to-point and collective operations can be improved up to 193% and 91%, respectively. The application performance can be improved up to 96%, compared to SR-IOV. The results further show that IVShmem just brings minor overhead compared to native environment.
   </p>
   </div>
   </div>
