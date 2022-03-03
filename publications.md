@@ -59,8 +59,9 @@ You can also browse my <a href="https://scholar.google.com/citations?user=WnQ255
   </div>
 
 - <div style="margin-top:20px;">
-  P. Jin, J Guo, Y. Xiao,<strong> R. Shi</strong>, Y. Niu, F. Liu, C. Qian, Y. Wang, PostMan: Rapidly Mitigating Bursty
-  Traffic by Offloading Packet Processing, USENIX Annual Technical Conference (<strong>ATC'19</strong>), Renton, USA, 2019
+  [<strong>USENIX ATC'19</strong>] PostMan: Rapidly Mitigating Bursty Traffic by Offloading Packet Processing.<br>
+  P. Jin, J Guo, Y. Xiao,<strong> R. Shi</strong>, Y. Niu, F. Liu, C. Qian, Y. Wang<br>
+  In 2019 USENIX Annual Technical Conference, Renton, WA, USA, July 2019<br>
   <span class="links btn-group">
     <a class="btn btn-default btn-xs dropdown-toggle" href="javascript:void(0);" onclick="$('#bib_atc19').slideToggle('fast');return false;">
       <i class="fa fa-file-code-o"></i> bib
@@ -119,9 +120,10 @@ You can also browse my <a href="https://scholar.google.com/citations?user=WnQ255
 
 
 - <div style="margin-top:20px;">
-  <strong>R. Shi</strong>, Y. Gan, and Y. Wang, Evaluating Scalability Bottlenecks by Workload Extrapolation,
-  IEEE International Symposium on the Modeling, Analysis, and Simulation of Computer and Telecommunication Systems (<strong>MASCOTS'18</strong>),
-  Milwaukee, USA, 2018
+  [<strong>MASCOTS'18</strong>] Evaluating Scalability Bottlenecks by Workload Extrapolation.<br>
+  <strong>R. Shi</strong>, Y. Gan, and Y. Wang<br>
+  In the 26th IEEE International Symposium on the Modeling, Analysis, and Simulation of Computer and Telecommunication Systems,
+  Milwaukee, WI, USA, Sep 2018<br>
   <span class="links btn-group">
     <a class="btn btn-default btn-xs dropdown-toggle" href="javascript:void(0);" onclick="$('#bib_mascots18').slideToggle('fast');return false;">
       <i class="fa fa-file-code-o"></i> bib
@@ -176,8 +178,9 @@ You can also browse my <a href="https://scholar.google.com/citations?user=WnQ255
 
 
 - <div style="margin-top:20px;">
-  <strong>R. Shi</strong>, Y. Wang, Cheap and Available State Machine Replication, USENIX Annual Technical Conference (<strong>ATC'16</strong>),
-  Denver, USA, 2016
+  [<strong>USENIX ATC'16</strong>] Cheap and Available State Machine Replication.<br>
+  <strong>R. Shi</strong>, Y. Wang<br>
+  In 2016 USENIX Annual Technical Conference, Denver, CO, USA, Jun 2016<br>
   <span class="links btn-group">
     <a class="btn btn-default btn-xs dropdown-toggle" href="javascript:void(0);" onclick="$('#bib_atc16').slideToggle('fast');return false;">
       <i class="fa fa-file-code-o"></i> bib
@@ -370,8 +373,10 @@ You can also browse my <a href="https://scholar.google.com/citations?user=WnQ255
   </div>
 
 - <div style="margin-top:20px;">
-  <strong>R. Shi</strong>, S. Potluri, K. Hamidouche, X. Lu, K. Tomko and D. K. Panda, A Scalable and Portable Approach to Accelerate Hybrid HPL on 
-Heterogeneous CPU-GPU Clusters, IEEE International Conference on Cluster Computing (<strong>Cluster'13</strong>), Indianapolis, USA, 2013, <font color="red"><strong>Best Student Paper Award</strong></font>
+  [<strong>Cluster'13</strong>] A Scalable and Portable Approach to Accelerate Hybrid HPL on Heterogeneous CPU-GPU Clusters.<br>
+  <font color="blue"><strong>Best Student Paper Award</strong></font><br>
+  <strong>R. Shi</strong>, S. Potluri, K. Hamidouche, X. Lu, K. Tomko and D. K. Panda<br>
+  In IEEE International Conference on Cluster Computing, Indianapolis, IN, USA, Sep. 2013<br>
   <span class="links btn-group">
     <a class="btn btn-default btn-xs dropdown-toggle" href="javascript:void(0);" onclick="$('#bib_cluster13').slideToggle('fast');return false;">
       <i class="fa fa-file-code-o"></i> bib
