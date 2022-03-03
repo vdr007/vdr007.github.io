@@ -10,23 +10,23 @@ You can also browse my <a href="https://scholar.google.com/citations?user=WnQ255
 - <div style="margin-top:20px;">
   Y. Niu, P. Jin, J. Guo, Y Xiao, <strong>Rong Shi</strong>, F. Liu, C. Qian, Y. Wang, PostMan: Rapidly Mitigating Bursty Traffic via On-Demand Offloading of Packet Processing
   <span class="links btn-group">
-    <a class="btn btn-default btn-xs dropdown-toggle" href="javascript:void(0);" onclick="$('#bib_atc19').slideToggle('fast');return false;">
+    <a class="btn btn-default btn-xs dropdown-toggle" href="javascript:void(0);" onclick="$('#bib_tpds21').slideToggle('fast');return false;">
       <i class="fa fa-file-code-o"></i> bib
     </a>
-    <a class="btn btn-default btn-xs dropdown-toggle" href="javascript:void(0);" onclick="$('#abs_atc19').slideToggle('fast');return false;">
+    <a class="btn btn-default btn-xs dropdown-toggle" href="javascript:void(0);" onclick="$('#abs_tpds21').slideToggle('fast');return false;">
       <i class="fa fa-file-text-o"></i> abstract
     </a>
     <a class="btn btn-default btn-xs" href="../pub/paper/tpds-2021-rongshi.pdf">
       <i class="fa fa-file-pdf-o"></i> paper
     </a>
-    <a class="btn btn-default btn-xs" href="">
+    <!--a class="btn btn-default btn-xs" href="">
       <i class="fa fa-file-pdf-o"></i> slides
-    </a>
+    </a-->
     <!--a class="btn btn-default btn-xs" href="">
       <i class="fa fa-github-square"></i> code
     </a-->
   </span>
-  <div id="bib_atc19" style="display:none">
+  <div id="bib_tpds21" style="display:none">
     <p style="background-color:#f0f0f0;font-size:70%;">
     @ARTICLE{rong-tpds2021,<br>
     author={Niu, Yipei and Jin, Panpan and Guo, Jian and Xiao, Yikai and Shi, Rong and Liu, Fangming and Qian, Chen and Wang, Yang},<br>
@@ -37,7 +37,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=WnQ255
     }
     </p>
   </div>
-  <div id="abs_atc19" class="abstract well" style="display:none">
+  <div id="abs_tpds21" class="abstract well" style="display:none">
   <p style="background-color:#f0f0f0;font-size:80%;">
   Unexpected bursty traffic brought by certain sudden events, such as news in the spotlight on a
   social network or discounted items on sale, can cause severe load imbalance in backend services.
